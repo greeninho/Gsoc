@@ -1,0 +1,3 @@
+Database name is gsoc
+mysql username is root
+password = ""
