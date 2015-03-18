@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:weightSum="3" >
+ 
+    
+ 
+    
+    
+ 			<TextView 
+            android:id="@+id/readTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/input_register_bg"
+            android:layout_gravity="top"
+            android:singleLine="true"
+            android:layout_weight="0.5" />
+ 			
+    		<TextView
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:text="Story"/>
+    		
+        	<TextView
+            android:id="@+id/stor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/input_register_bg"
+            android:gravity="left"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:singleLine="false"
+            android:layout_weight="1"
+             />
+        	
+  			<TextView
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:text="Vision"
+    		/>
+  			
+        	<TextView
+            android:id="@+id/visio"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/input_register_bg"
+            android:gravity="left"
+            android:layout_weight="1"
+            android:singleLine="false" />
+    
+
+</LinearLayout>

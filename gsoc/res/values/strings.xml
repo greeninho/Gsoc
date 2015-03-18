@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gsoc</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_password1">Confirm Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="hint_name1">First Name</string>
+    <string name="hint_name2">Last Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">CONTINUE</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registered! Login.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+	<string name="take_photo">Take a Photo</string>
+    <string name="upload_server">Upload</string>
+    <string name="uploaded">Successfully uploaded</string>
+    
+</resources>
